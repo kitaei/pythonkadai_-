@@ -2,10 +2,10 @@
 
 x = 10
 y = 2.5
-z = "Python"
+z = "python"
 w = False
 
-print(x)
-print(y)
-print(z)
-print(w)
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(w))
